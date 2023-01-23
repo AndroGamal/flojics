@@ -18,6 +18,16 @@ samples, guidance on mobile development, and a full API reference.
 
 you can see output from
 [video/Untitled.mp4](https://github.com/AndroGamal/flojics/blob/main/video/Untitled.mp4)
+[![Watch the video](https://github.com/AndroGamal/flojics/blob/main/video/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A3-%D9%A0%D9%A1-%D9%A1%D9%A8-%D9%A1%D9%A4-%D9%A1%D9%A5-%D9%A3%D9%A8-%D9%A4%D9%A4%D9%A2_com.example.flojics.jpg)](https://youtu.be/T-D1KVIuvjA)
+
+<img src="https://github.com/AndroGamal/flojics/blob/main/video/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A3-%D9%A0%D9%A1-%D9%A1%D9%A8-%D9%A1%D9%A4-%D9%A1%D9%A5-%D9%A3%D9%A8-%D9%A4%D9%A4%D9%A2_com.example.flojics.jpg" alt="Girl in a jacket" width="400" height="700"> 
+
+
+ <video width="320" height="240" controls>
+  <source src="https://github.com/AndroGamal/flojics/blob/main/video/Untitled.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
+
 
 to download use this command line
 ```
